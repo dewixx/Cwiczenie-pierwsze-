@@ -1,0 +1,2 @@
+# Cwiczenie-pierwsze-
+Zły kod
